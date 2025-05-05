@@ -1,0 +1,11 @@
+id = "huff"
+name = "Huff"
+description = "Huff support for Zed"
+version = "0.0.1"
+schema_version = 1
+authors = [""]
+repository = ""
+
+[grammars.huff]
+repository = "https://github.com/Gaon3/tree-sitter-huff"
+rev = "53f5b5fb4775796b19a13f23b70d471d61171698"
