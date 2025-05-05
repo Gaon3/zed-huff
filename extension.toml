@@ -3,8 +3,8 @@ name = "Huff"
 description = "Huff support for Zed"
 version = "0.0.1"
 schema_version = 1
-authors = [""]
-repository = ""
+authors = ["Gaon3"]
+repository = "https://github.com/Gaon3/zed-huff"
 
 [grammars.huff]
 repository = "https://github.com/Gaon3/tree-sitter-huff"
